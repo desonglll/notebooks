@@ -1,0 +1,3 @@
+[submodule "nlp-with-transformers"]
+	path = nlp-with-transformers
+	url = https://github.com/desonglll/nlp-with-transformers.git
